@@ -2,7 +2,7 @@
 
 # Yash Bora
 
-### Python Developer Ã‚Â· Backend & Full-Stack Engineer
+### Python Developer | Backend & Full-Stack Engineer
 
 Building practical software with Python, APIs, databases, and thoughtful user experiences.
 
