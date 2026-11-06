@@ -7,18 +7,18 @@
 
 Building practical software with Python, APIs, databases, and thoughtful user experiences.
 
-<p>
+<p align="center">
   <a href="https://yashbora-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:yashbora0801@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Send_Email-334155?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/yash-bora-92b305258/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/yashbora18">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
