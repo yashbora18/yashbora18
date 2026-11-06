@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Yash Bora
 
@@ -118,14 +118,11 @@ AI-assisted resume analyzer that extracts skills, highlights gaps, generates int
 
 ## GitHub Activity
 
-<div align="center">
+Explore my work and development activity:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashbora18&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbora18&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages">
-
-<img src="https://streak-stats.demolab.com?user=yashbora18&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-
-</div>
+- [Browse my repositories](https://github.com/yashbora18?tab=repositories)
+- [View my contributions](https://github.com/yashbora18?tab=overview#js-contribution-activity)
+- [Explore my featured projects](https://github.com/yashbora18?tab=repositories)
 
 ## Beyond Code
 
