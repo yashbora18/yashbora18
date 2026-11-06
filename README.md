@@ -1,13 +1,13 @@
-<div align="center">
+﻿<div align="center">
 
 # Yash Bora
 
-### Python Developer · Backend & Full-Stack Engineer
+### Python Developer Â· Backend & Full-Stack Engineer
 
 Building practical software with Python, APIs, databases, and thoughtful user experiences.
 
 <p>
-  <a href="https://yash-bora-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://yashbora-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:yashbora0801@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/yash-bora-92b305258"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/yashbora18"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -21,7 +21,7 @@ Building practical software with Python, APIs, databases, and thoughtful user ex
 
 I'm a Computer Science and Engineering graduate who enjoys designing and building useful software products. My work spans Python backend development, REST APIs, database-driven applications, and React interfaces.
 
-I focus on turning ideas into usable applications—from planning the architecture and implementing features to testing, documenting, and deploying projects.
+I focus on turning ideas into usable applicationsâ€”from planning the architecture and implementing features to testing, documenting, and deploying projects.
 
 - **Current focus:** Python development, backend engineering, REST APIs, and full-stack applications.
 - **Core tools:** Python, FastAPI, Flask, SQL, PostgreSQL, React, and Git.
@@ -38,7 +38,7 @@ I focus on turning ideas into usable applications—from planning the architectu
 
 AI-powered resume analysis and job-matching platform. Includes resume parsing, ATS-focused feedback, skill evaluation, analysis history, and job matching.
 
-**Stack:** Python · FastAPI · React · PostgreSQL · SQLAlchemy · Gemini
+**Stack:** Python Â· FastAPI Â· React Â· PostgreSQL Â· SQLAlchemy Â· Gemini
 
 [Live demo](https://resumeiq-omega-two.vercel.app/)
 
@@ -49,7 +49,7 @@ AI-powered resume analysis and job-matching platform. Includes resume parsing, A
 
 Feature flag management platform for controlled releases across development, staging, and production environments. Includes targeting, gradual rollouts, and auditability.
 
-**Stack:** Python · FastAPI · React · PostgreSQL · SQLAlchemy
+**Stack:** Python Â· FastAPI Â· React Â· PostgreSQL Â· SQLAlchemy
 
 [Live demo](https://featureflow-frontend-kappa.vercel.app/)
 
@@ -62,7 +62,7 @@ Feature flag management platform for controlled releases across development, sta
 
 Document-grounded AI assistant with document ingestion, retrieval-augmented generation, source-aware answers, conversation history, and retrieval analytics.
 
-**Stack:** Python · FastAPI · React · PostgreSQL · pgvector · Gemini
+**Stack:** Python Â· FastAPI Â· React Â· PostgreSQL Â· pgvector Â· Gemini
 
 [Repository](https://github.com/yashbora18/ai-rag-knowledge-assistant)
 
@@ -73,7 +73,7 @@ Document-grounded AI assistant with document ingestion, retrieval-augmented gene
 
 AI-powered plant-care assistant that analyzes plant images and symptoms and provides care guidance. Explores local model inference with Ollama.
 
-**Stack:** Python · FastAPI · React · Ollama
+**Stack:** Python Â· FastAPI Â· React Â· Ollama
 
 [Live demo](https://plantcare-ai-six.vercel.app/)
 
@@ -86,7 +86,7 @@ AI-powered plant-care assistant that analyzes plant images and symptoms and prov
 
 Private AI-powered reflection and journaling application, combining Gemini-powered insights with Firebase services and client-side encryption.
 
-**Stack:** React · TypeScript · Node.js · Firebase · Firestore · Gemini
+**Stack:** React Â· TypeScript Â· Node.js Â· Firebase Â· Firestore Â· Gemini
 
 [Repository](https://github.com/yashbora18/mindvault-ai)
 
@@ -97,7 +97,7 @@ Private AI-powered reflection and journaling application, combining Gemini-power
 
 AI-assisted resume analyzer that extracts skills, highlights gaps, generates interview questions, and suggests career roadmaps.
 
-**Stack:** Python · Flask · SQLAlchemy · Groq
+**Stack:** Python Â· Flask Â· SQLAlchemy Â· Groq
 
 [Live demo](https://ai-career-copilot-lwv7.onrender.com/)
 
@@ -135,7 +135,7 @@ I enjoy learning through hands-on projects, exploring cloud technologies, and co
 
 I'm interested in connecting with engineering teams, developers, and people building useful products.
 
-- **Portfolio:** https://yash-bora-portfolio.vercel.app
+- **Portfolio:** https://yashbora-portfolio.vercel.app
 - **LinkedIn:** https://www.linkedin.com/in/yash-bora-92b305258
 - **Email:** yashbora0801@gmail.com
 - **GitHub:** https://github.com/yashbora18
@@ -144,6 +144,7 @@ I'm interested in connecting with engineering teams, developers, and people buil
 
 <div align="center">
 
-*Building, learning, and improving—one project at a time.*
+*Building, learning, and improvingâ€”one project at a time.*
 
 </div>
+
