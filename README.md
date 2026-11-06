@@ -11,9 +11,9 @@ Building practical software with Python, APIs, databases, and thoughtful user ex
   <a href="https://yashbora-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="mailto:yashbora0801@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Email-334155?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashbora0801@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Send_Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
   <a href="https://www.linkedin.com/in/yash-bora-92b305258/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
