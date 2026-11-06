@@ -1,4 +1,5 @@
-﻿<div align="center">
+
+<div align="center">
 
 # Yash Bora
 
@@ -21,7 +22,7 @@ Building practical software with Python, APIs, databases, and thoughtful user ex
 
 I'm a Computer Science and Engineering graduate who enjoys designing and building useful software products. My work spans Python backend development, REST APIs, database-driven applications, and React interfaces.
 
-I focus on turning ideas into usable applicationsÃ¢â‚¬â€from planning the architecture and implementing features to testing, documenting, and deploying projects.
+I focus on turning ideas into usable applications, from planning the architecture and implementing features to testing, documenting, and deploying projects.
 
 - **Current focus:** Python development, backend engineering, REST APIs, and full-stack applications.
 - **Core tools:** Python, FastAPI, Flask, SQL, PostgreSQL, React, and Git.
@@ -38,7 +39,7 @@ I focus on turning ideas into usable applicationsÃ¢â‚¬â€from planning
 
 AI-powered resume analysis and job-matching platform. Includes resume parsing, ATS-focused feedback, skill evaluation, analysis history, and job matching.
 
-**Stack:** Python Ã‚Â· FastAPI Ã‚Â· React Ã‚Â· PostgreSQL Ã‚Â· SQLAlchemy Ã‚Â· Gemini
+**Stack:** Python | FastAPI | React | PostgreSQL | SQLAlchemy | Gemini
 
 [Live demo](https://resumeiq-omega-two.vercel.app/)
 
@@ -49,7 +50,7 @@ AI-powered resume analysis and job-matching platform. Includes resume parsing, A
 
 Feature flag management platform for controlled releases across development, staging, and production environments. Includes targeting, gradual rollouts, and auditability.
 
-**Stack:** Python Ã‚Â· FastAPI Ã‚Â· React Ã‚Â· PostgreSQL Ã‚Â· SQLAlchemy
+**Stack:** Python | FastAPI | React | PostgreSQL | SQLAlchemy
 
 [Live demo](https://featureflow-frontend-kappa.vercel.app/)
 
@@ -62,7 +63,7 @@ Feature flag management platform for controlled releases across development, sta
 
 Document-grounded AI assistant with document ingestion, retrieval-augmented generation, source-aware answers, conversation history, and retrieval analytics.
 
-**Stack:** Python Ã‚Â· FastAPI Ã‚Â· React Ã‚Â· PostgreSQL Ã‚Â· pgvector Ã‚Â· Gemini
+**Stack:** Python | FastAPI | React | PostgreSQL | pgvector | Gemini
 
 [Repository](https://github.com/yashbora18/ai-rag-knowledge-assistant)
 
@@ -73,7 +74,7 @@ Document-grounded AI assistant with document ingestion, retrieval-augmented gene
 
 AI-powered plant-care assistant that analyzes plant images and symptoms and provides care guidance. Explores local model inference with Ollama.
 
-**Stack:** Python Ã‚Â· FastAPI Ã‚Â· React Ã‚Â· Ollama
+**Stack:** Python | FastAPI | React | Ollama
 
 [Live demo](https://plantcare-ai-six.vercel.app/)
 
@@ -86,7 +87,7 @@ AI-powered plant-care assistant that analyzes plant images and symptoms and prov
 
 Private AI-powered reflection and journaling application, combining Gemini-powered insights with Firebase services and client-side encryption.
 
-**Stack:** React Ã‚Â· TypeScript Ã‚Â· Node.js Ã‚Â· Firebase Ã‚Â· Firestore Ã‚Â· Gemini
+**Stack:** React | TypeScript | Node.js | Firebase | Firestore | Gemini
 
 [Repository](https://github.com/yashbora18/mindvault-ai)
 
@@ -130,8 +131,6 @@ I'm interested in connecting with engineering teams, developers, and people buil
 
 <div align="center">
 
-*Building, learning, and improvingÃ¢â‚¬â€one project at a time.*
+*Building, learning, and improving - one project at a time.*
 
 </div>
-
-
